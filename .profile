@@ -8,6 +8,6 @@ export PATH HOME TERM
 
 alias ll='ls -l'
 
-export PS1="\[$(tput bold)\][\u@black \W]\\$ \[$(tput sgr0)\]"
+export PS1="\[$(tput bold)\][ \u@black \W]\\$ \[$(tput sgr0)\]"
 
 
